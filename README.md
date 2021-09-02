@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sscheng25
 - 🌱 I’m currently a graduate student of MUSA program in UPenn.
 - 💞️ I’m interested in the field of spatial data analysis, mapping and visualiztion, urban transpotation system, ...
+- 💞️ I have a few experiences with C/C++/python, but not proficient.
 - 📫 My email is sscheng25@gmail.com.
 
 <!---
